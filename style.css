@@ -307,4 +307,7 @@ table tr {
     li {
         font-size: 12px !important;
     }
+    body.sticky .main-wrapper {
+        padding-inline-start: 50px;
+        }
 }
